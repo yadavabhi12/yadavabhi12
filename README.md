@@ -1,36 +1,89 @@
-<h2> Hi there 👋</h2>
-<img src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966">
 
+![logo](https://github.com/yadavabhi12/yadavabhi12/blob/main/github-header-image%20(1).png)
+## 👋 Hi, I'm Abhishek Yadav
 
-**yadavabhi12/yadavabhi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<hr>
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="60%" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  💻 Full Stack Developer | Java & MERN Stack | Problem Solver | UI/UX Enthusiast
+</p>
 
-- 🔭 I’m currently working on : Freelancing
-- 🌱 I’m currently learning : Java
-- 👯 I’m looking to collaborate on : Internship Program
-- 🤔 I’m looking for help with : ...
-- 💬 Ask me about : HTML, CSS, JAVASCRIPT,C, C++, JAVA, DSA .
-- 📫 How to reach me: yadabhishek61@gmail.com
--    linkedin profile:- https://www.linkedin.com/in/abhishek-yadav-a4a075224/
-- 😄 Pronouns: He.
-- ⚡ Fun fact: I am funny guy.
+---
 
-- <hr>
-  <img src="https://www.aceinfoway.com/blog/wp-content/uploads/2022/04/Skillset-to-look-for-when-hiring-a-web-developer.gif" alt="">
-   <h2 align="center">Languages and Tools:</h2>
+## 💼 Professional Summary
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+I'm a self-motivated and passionate **Full Stack Developer** with a focus on **MERN stack** and **Java backend development**. With a strong foundation in **Data Structures & Algorithms**, I enjoy solving real-world problems, building intuitive user interfaces, and contributing to impactful software products. I'm actively looking for opportunities in full-time roles or internships where I can contribute and grow.
 
-<p align="center"> <img src="https://cdn.dribbble.com/users/605032/screenshots/2215449/media/e2380902d2e2d03fad1398a467d5d931.gif" alt=""width="40%" height="40%"/> </p>
+---
 
+## 🚀 Technical Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,react,nodejs,express,mongodb,git,html,css,tailwind,figma,postman,firebase,vscode,linux" />
+</p>
 
+---
 
+## 📂 Projects
 
+### 🔹 [IntelData – Multi-User Data Management Platform](https://github.com/yadavabhi12/inteldata)
+- **Stack:** React.js, Spring Boot, MongoDB
+- Built secure and efficient data handling system with multi-user access.
+- Developed responsive UI and reusable frontend components.
 
+### 🔹 [Food Delivery Platform](https://github.com/yadavabhi12/food-delivery-app)
+- **Stack:** MERN Stack, Stripe API
+- Built end-to-end ordering system with secure payment flow.
+- Integrated real-time order updates and mobile-friendly UI.
 
+---
 
+## 💡 Problem Solving & Coding
 
+- 👨‍💻 **LeetCode Profile:** [leetcode.com/u/roronoa_abhishek](https://leetcode.com/u/roronoa_abhishek/)
+- 🧠 **HackerRank Profile:** [hackerrank.com/profile/yadabhishek61](https://www.hackerrank.com/profile/yadabhishek61)
+- Solved 200+ problems in DSA, focused on arrays, trees, recursion, and dynamic programming.
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yadavabhi12&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yadavabhi12&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📢 Email: **yadabhishek61@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/abhishek-yadav-a4a075224](https://www.linkedin.com/in/abhishek-yadav-a4a075224/)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-yadav-a4a075224/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+  </a>
+  <a href="mailto:yadabhishek61@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+  </a>
+</p>
+
+---
+
+## 🎨 Banner Showcase
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94824695/235314432-60335268-0a73-4546-92a9-2b6cfba3b3d9.gif" width="90%"/>
+</p>
+
+---
+
+## 📌 Fun Fact
+
+😄 I enjoy debugging dreams and cracking logic like a ninja!  
+✨ I believe in clean code, strong chai ☕, and long coding nights.
+
+---
