@@ -1,13 +1,13 @@
-# 👋 Welcome to My GitHub Profile
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                        HEADER BANNER                         -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-Hi! I'm **Abhishek Yadav (@yadavabhi12)**, a passionate Full Stack + AI Engineer who builds production-grade systems that combine cutting-edge AI with robust software architecture.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,30&height=240&section=header&text=Abhishek%20Yadav&fontSize=68&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,30&height=240&section=header&text=Abhishek%20Yadav&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%2B%20LLM%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=20&descColor=93c5fd&fontAlign=50&descAlign=50" width="100%"/>
 
 <!-- ████ TYPING ANIMATION ████ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=65&lines=Full+Stack+Engineer+%7C+AI+Systems+Builder;MERN+Stack+%2B+LangChain+%2B+RAG;Solving+Complex+Problems+with+Elegant+Code)](https://github.com/yadavabhi12)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=750&height=65&lines=🚀+Full+Stack+%2B+AI+Engineer+%7C+India;🤖+LangChain+%7C+LangGraph+%7C+RAG+Pipelines;⚡+MERN+%7C+WebSocket+%7C+Real-Time+Systems;🔍+OpenAI+%7C+Gemini+%7C+Pinecone+Vector+DB;💡+Building+Products+That+Actually+Matter)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,475 +28,548 @@ Hi! I'm **Abhishek Yadav (@yadavabhi12)**, a passionate Full Stack + AI Engineer
 
 ---
 
-## 🧑‍💻 About Me
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                       ABOUT SECTION                          -->
+<!-- ██████████████████████████████████████████████████████████████ -->
+
+<div align="center"><h2>🧑‍💻 About Me</h2></div>
+
+<table width="100%">
+<tr>
+<td width="52%" valign="top" align="left">
+
+<h3>👋 Hey, I'm Abhishek!</h3>
 
 A **Full Stack + AI Engineer** who builds **complete, production-grade systems** — not just UI screens.
 
 I combine the **MERN stack** with **LLM orchestration** (LangChain · LangGraph · RAG) to ship fast, intelligent, and scalable products — deployed live on **Netlify** + **Render**.
 
-### 🎯 What I Bring
+---
 
-✦ AI-first architecture — OpenAI + Gemini hybrid LLMs  
-✦ Real-time systems via WebSocket — **< 80ms latency**  
-✦ Semantic vector search with **Pinecone + RAG**  
-✦ Strong CS core — Java · Python · OOP · DSA (200+ problems solved)  
-✦ Data pipelines with **Pandas & NumPy**  
+**🎯 What I Bring**
+
+✦ AI-first architecture — OpenAI + Gemini hybrid LLMs<br/>
+✦ Real-time systems via WebSocket — **<80ms latency**<br/>
+✦ Semantic vector search with **Pinecone + RAG**<br/>
+✦ Strong CS core — Java · Python · OOP · DSA (200+ problems)<br/>
+✦ Data pipelines with **Pandas & NumPy**<br/>
 ✦ Live deployments — **Netlify** (FE) + **Render** (BE)
 
-### 💬 Ask Me About
+---
 
-`LangChain` · `LangGraph` · `RAG` · `MERN` · `WebSocket` · `DSA` · `System Design` · `AI Integration`
+**💬 Ask Me About**
+
+`LangChain` &nbsp;`LangGraph` &nbsp;`RAG` &nbsp;`MERN` &nbsp;`WebSocket` &nbsp;`DSA` &nbsp;`System Design`
+
+</td>
+<td width="48%" valign="middle" align="center">
+
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="340" />
+
+<br/>
+
+![](https://img.shields.io/badge/Frontend-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/Backend-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                     SKILLS SECTION                           -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+<div align="center"><h2>🛠️ Tech Stack & Skills</h2></div>
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+<div align="center">
 
-### 🗄️ Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-000000?style=flat-square&logo=pinecone&logoColor=white)
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
 
-### 💻 Languages & CS Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![OOP](https://img.shields.io/badge/OOP-007396?style=flat-square&logo=openjdk&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FFA116?style=flat-square&logo=leetcode&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**🌐 Frontend**
 
-### 🤖 AI / LLM Stack
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=graphql&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-38BDF8?style=flat-square&logo=databricks&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Embedding_Models-22C55E?style=flat-square&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux&theme=dark&perline=5" /><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,html,css,materialui&theme=dark&perline=5" />
 
-### 📊 DevOps & Data
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+</td>
+<td width="50%" align="center" valign="top">
+
+**⚙️ Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=5" /><br/>
+
+![](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<br/>**🗄️ Databases & Storage**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark&perline=5" /><br/>
+
+![](https://img.shields.io/badge/Pinecone_VectorDB-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<br/>**💻 Languages & CS Core**
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts&theme=dark&perline=5" /><br/>
+
+![](https://img.shields.io/badge/OOP-007396?style=flat-square&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/DSA-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<br/>**📊 Data & DevOps**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=dark&perline=5" /><br/>
+
+![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<br/>**🤖 AI / LLM Stack**
+
+![](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)<br/>
+![](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=graphql&logoColor=white)<br/>
+![](https://img.shields.io/badge/RAG_Pipelines-38BDF8?style=flat-square&logo=databricks&logoColor=white)
+![](https://img.shields.io/badge/Prompt_Eng-6E40C9?style=flat-square&logo=openai&logoColor=white)<br/>
+![](https://img.shields.io/badge/Agentic_AI-FF4B4B?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Embedding_Models-22C55E?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-## 🚀 All My Projects
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                    FEATURED PROJECTS                         -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-### 🎓 1. IBM Interview DSA Coding
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Language Composition:** ![Python](https://img.shields.io/badge/Python-91.5%25-3776ab?style=flat-square) ![Java](https://img.shields.io/badge/Java-8.5%25-007396?style=flat-square)
+<div align="center"><h2>🚀 Featured Projects</h2></div>
 
-**Description:** Comprehensive collection of **Data Structures and Algorithms** problems with optimized solutions in **Python & Java**, designed for interview preparation and competitive programming.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 📋 Productivity Pro — Smart Task Manager & Focus Tracker
+
+![](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
+![](https://img.shields.io/badge/Jan_2026-Present-38BDF8?style=flat-square)
+![](https://img.shields.io/badge/Netlify+Render-A855F7?style=flat-square)
+
+</div>
+
+> **Full-stack productivity application** designed for students & professionals to manage tasks, track focus sessions, build consistent habits, and collaborate in real-time.
 
 **Key Features:**
-- ✅ 200+ DSA problems solved with detailed explanations
-- 📚 Covers Arrays, Linked Lists, Trees, Graphs, DP, Sorting, Searching & more
-- 💡 Interview-focused approach with time/space complexity analysis
-- 🔗 Clean, optimized code following best practices
-- 📖 Comments & walkthrough for each solution
+- 🏠 Dashboard with daily motivation, live stats & today's tasks
+- ✅ Task Manager with full CRUD, alarms, sharing, categories, tags
+- 📅 Calendar with monthly view & date-click drill-down
+- ⏱️ Pomodoro Focus Timer with distraction-free mode
+- 📊 6 Analytics Tabs (Overview, Trends, Categories, Time, Performance, Forecast)
+- 💬 Real-Time Chat (1:1 messaging, group chats, image sharing)
+- 👤 LinkedIn-style Profile with achievements
+- 🔔 Smart Notifications & alarm system
 
-**Link:** [View Repository](https://github.com/yadavabhi12/IBM_INTERVIEW_DSA_CODING)
+**Stack:** `React 18` `Vite` `Node.js` `Express` `MongoDB` `MySQL` `Socket.IO` `Recharts` `Tailwind CSS` `JWT`
 
----
+| Metric | Impact |
+|:---|:---|
+| 📊 Task Visibility | **↑ 45%** |
+| ⚡ Data Latency | **↓ 30%** |
+| 👥 Team Coordination | **↑ 25%** |
+| 💬 Chat Speed | **WebSocket driven** |
+| 🔐 Security | **Role-based RBAC** |
 
-### 🎯 2. Productivity Pro — Smart Task Manager & Focus Tracker
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Vite · Node.js · MongoDB · Socket.IO
+[![](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yadavabhi12/abhishekyadav-focus-engine)
 
-**Description:** A **full-stack productivity application** designed to help students and professionals manage tasks, track focus sessions, and build consistent study habits.
+</td>
+<td width="50%" valign="top">
 
-**Key Features:**
-- 🏠 **Dashboard** - Daily motivation, live stats, today's tasks at a glance
-- ✅ **Task Manager** - Full CRUD, alarms, sharing, categories, filters, tags
-- 📅 **Calendar** - Monthly task view, date-click task drill-down
-- ⏱️ **Focus Timer** - Pomodoro with distraction-free mode, task linking
-- 📊 **6 Analytics Tabs** - Overview, Trends, Categories, Time Analysis, Performance, Forecast
-- 💬 **Real-Time Chat** - 1:1 messaging, group chats, image sharing
-- 👤 **Profile** - LinkedIn-style profile, achievements, settings
-- 🔔 **Smart Notifications** - Alarms, task reminders, read/unread status
-- 📤 **Export Options** - PDF, JSON, CSV report generation
+<div align="center">
 
-**Tech Stack:** React 18 · Vite · Node.js · Express · MongoDB · Socket.IO · Recharts · Tailwind CSS · JWT
+### 🤖 KRISHANA AI — Real-Time Chat System
 
-**Link:** [View Repository](https://github.com/yadavabhi12/abhishekyadav-focus-engine)
+![](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square)
+![](https://img.shields.io/badge/Apr_2026-Present-38BDF8?style=flat-square)
+![](https://img.shields.io/badge/Deployed-Live-A855F7?style=flat-square)
 
----
+</div>
 
-### 🤖 3. KRISHANA AI — Real-Time Chat System
-**Status:** ![Live](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square) | **Stack:** Node.js · Gemini AI · Tavily API · WebSocket
-
-**Description:** A **real-time conversational AI system** designed to simulate **human-like interaction** with emotional intelligence, contextual memory, and live data retrieval.
-
-**Key Features:**
-- 🧠 **Context-Aware Memory** - Maintains conversation history (session-based)
-- 💬 **Human-Like Responses** - Natural tone, emotions, humor, and conversational flow
-- 🌐 **Real-Time Data Integration** - Uses Tavily API for live data (weather, news, trends)
-- 🔄 **Regenerate & Copy Features** - Re-generate responses or copy instantly
-- 🌍 **Multilingual Support** - English, Hindi, Hinglish (auto-detection)
-- ⚡ **Fast Performance** - Async architecture with low response latency
-- 🎯 **Emotion Detection** - Adapts responses to user sentiment
-
-**Tech Stack:** Node.js · Express · Gemini AI · Tavily API · MongoDB · CORS · WebSocket
-
-**Link:** [View Repository](https://github.com/yadavabhi12/livechat-ai)
-
----
-
-### 🧠 4. AI Prompt Flow — Node-Based UI (React + Node.js)
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Node.js · Gemini API · MongoDB
-
-**Description:** A **node-based AI prompt flow application** where users can visually connect nodes to create AI-powered workflows, send prompts to AI models, and view generated responses.
+> **Human-like conversational AI system** that simulates natural interaction with emotional intelligence, contextual memory, and live data retrieval from the internet.
 
 **Key Features:**
-- 🖼️ **Visual Node Editor** - Drag-and-drop interface for prompt flows
-- 🔗 **Node Connection Logic** - Connect Input Node → Output Node visually
-- 🤖 **AI Integration** - Uses Google Gemini API for intelligent responses
-- 💾 **Prompt Storage** - Save prompts and responses to MongoDB
-- ⚠️ **Connection Validation** - AI won't run without proper node connections
-- 📊 **Flow Visualization** - Data flows visually through connected nodes
-- 🎨 **Interactive UI** - Real-time feedback on node status and connection
+- 🧠 Context-Aware Memory — Session-based conversation history
+- 💬 Human-Like Responses — Natural tone, emotions, humor, flow
+- 🌐 Real-Time Data Integration — Tavily API for live data (weather, news)
+- 🔄 Regenerate & Copy Features — Re-generate or copy responses instantly
+- 🌍 Multilingual Support — English, Hindi, Hinglish auto-detection
+- ⚡ Fast Performance — Async architecture with low latency
+- 🎯 Emotion Detection — Adapts responses to user sentiment
 
-**Tech Stack:** React · Vite · @xyflow/react (React Flow) · Node.js · Express · Google Gemini API · MongoDB · Axios
+**Stack:** `Node.js` `Express` `Gemini AI` `OpenAI API` `Tavily API` `MongoDB` `WebSocket` `CORS`
 
-**Link:** [View Repository](https://github.com/yadavabhi12/FutureBlink_project_assigment)
+| Metric | Impact |
+|:---|:---|
+| ⚡ Response Time | **< 500ms** |
+| 🧠 Context Accuracy | **↑ 40%** |
+| 🌐 Data Retrieval | **Real-time via Tavily** |
+| 💬 Conversation Flow | **Natural & adaptive** |
+| 🌍 Language Support | **3 languages** |
 
----
+[![](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yadavabhi12/livechat-ai)
 
-### 📋 5. Productivity Tracker — Task Tracking & Analytics
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · TypeScript · Tailwind CSS · Vite
+</td>
+</tr>
+</table>
 
-**Description:** A **comprehensive mobile-first productivity tracking application** built with React, TypeScript, and Tailwind CSS.
+<br/>
 
-**Key Features:**
-- 📋 **Task Management** - Create, edit, delete, and track tasks with categories
-- ⏱️ **Live Timer** - Real-time task timing with start/stop functionality
-- 📊 **Analytics Dashboard** - Detailed productivity insights and statistics
-- 🏆 **Achievement System** - Gamified experience with unlockable badges
-- 🌙 **Dark/Light Mode** - Toggle between themes
-- 📱 **Mobile-First Design** - Optimized for all screen sizes
-- 🔥 **Streak Tracking** - Daily productivity streak counter
-- 🔍 **Smart Filtering** - Search and filter tasks by category
-- 💡 **Motivational Quotes** - Daily inspiration to boost productivity
-- 🎯 **Priority System** - High, medium, low priority task organization
+<div align="center"><h3>🔧 Other Notable Projects</h3></div>
 
-**Tech Stack:** React 18 · TypeScript · Tailwind CSS · Vite · Lucide React · React Icons · Netlify
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-**Link:** [View Repository](https://github.com/yadavabhi12/Productivity-Tracker)
+**🧩 IBM Interview DSA**
 
----
+200+ Data Structures & Algorithms problems with optimized solutions
 
-### 🍕 6. Food Delivery App — Full-Stack E-Commerce
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Node.js · MongoDB · Stripe API
+`Python` `Java` `OOP` `System Design`
 
-**Description:** A **complete full-stack food delivery application** with order management, real-time tracking, and secure payment processing.
+[![](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yadavabhi12/IBM_INTERVIEW_DSA_CODING)
 
-**Key Features:**
-- 🛒 **Shopping Cart** - Add/remove items, quantity management
-- 💳 **Stripe Payments** - Secure payment integration
-- 📍 **Real-Time Tracking** - Live order status and delivery tracking
-- 👤 **User Profiles** - Account management and order history
-- 🏪 **Admin Dashboard** - Manage restaurants, menus, orders
-- 🔐 **Authentication** - Secure login and JWT tokens
-- 📱 **Responsive UI** - Mobile-optimized experience
+</td>
+<td width="33%" valign="top" align="center">
 
-**Tech Stack:** React · Node.js · Express · MongoDB · Stripe API · Tailwind CSS
+**🎯 AI Prompt Flow**
 
-**Link:** [View Repository](https://github.com/yadavabhi12/food-delevery)
+Node-based visual AI workflow builder with React Flow & Gemini API
 
----
+`React` `Node.js` `Gemini API` `MongoDB`
 
-### 📊 7. IntelData — Multi-User Data Management Platform
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Node.js · MongoDB · Material UI
+[![](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yadavabhi12/FutureBlink_project_assigment)
 
-**Description:** A **multi-user data management dashboard** with real-time updates, secure access controls, and comprehensive data visualization.
+</td>
+<td width="33%" valign="top" align="center">
 
-**Key Features:**
-- 👥 **Multi-User Support** - Different user roles and permissions
-- ⚡ **Real-Time Updates** - WebSocket-based live data synchronization
-- 🔐 **Secure Access** - Role-Based Access Control (RBAC)
-- 📊 **Data Visualization** - Charts and analytics dashboards
-- 🔍 **Advanced Filtering** - Search and filter data efficiently
-- 🎨 **Material UI Design** - Professional and clean interface
-- 📤 **Data Export** - Export data in multiple formats
+**📊 All Projects**
 
-**Frontend:** [intelData Frontend](https://github.com/yadavabhi12/intelData_frantend)  
-**Backend:** [intelData Backend](https://github.com/yadavabhi12/intelData_backend)
+Food Delivery · IntelData · Voice Agent · Text-to-Speech · More...
 
-**Tech Stack:** React · Redux · Node.js · Express · MongoDB · MySQL · Material UI · WebSocket
+[![](https://img.shields.io/badge/View_All_Repos-38BDF8?style=flat-square&logo=github&logoColor=white)](https://github.com/yadavabhi12?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
-### 🎙️ 8. AI Voice Agent
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** HTML · JavaScript · Speech Recognition API
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                    WORK EXPERIENCE                           -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-**Description:** An **AI-powered voice agent** that understands and responds to voice commands with natural language processing.
+<div align="center"><h2>💼 Work Experience</h2></div>
 
-**Key Features:**
-- 🎤 **Voice Recognition** - Listens to user commands
-- 💭 **Natural Language Processing** - Understands context and intent
-- 🔊 **Voice Response** - Generates spoken responses
-- 🤖 **AI-Powered** - Intelligent responses based on user input
-- 📱 **Web-Based** - Runs in any browser
+<table width="100%">
+<tr>
+<td valign="top">
 
-**Link:** [View Repository](https://github.com/yadavabhi12/AI_Voice_Agent)
+<div align="center">
 
----
+**🏢 Frontend Developer Intern — Mala Foundation**
+`Oct 2025 – Mar 2026` &nbsp;|&nbsp; 6 Months
 
-### 📝 9. Interview Preparation
+</div>
 
-#### JavaScript Interview Questions
-**Stack:** JavaScript · Web Development  
-**Description:** Comprehensive collection of JavaScript interview questions and answers  
-**Link:** [View Repository](https://github.com/yadavabhi12/javascript_Interview_question)
+<br/>
 
----
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### 🛠️ 10. Text-to-Speech MERN App
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Node.js · MongoDB
+🖥️ Built **React.js + Material UI** data management dashboard for internal teams<br/><br/>
+⚡ Implemented **WebSocket real-time updates**, reducing latency by **40%**<br/><br/>
+🤖 Integrated **AI recommendation engine**, cutting manual review time by **30%**
 
-**Description:** A **MERN stack application** that converts text to speech with voice customization and playback controls.
+</td>
+<td width="50%" valign="top">
 
-**Key Features:**
-- 🔊 **Text-to-Speech** - Convert text to natural-sounding audio
-- 🎙️ **Voice Selection** - Choose from multiple voice options
-- 🎚️ **Speed & Pitch Control** - Customize speech parameters
-- 💾 **Save Audio** - Download generated speech
-- 📱 **Responsive UI** - Works on all devices
+♿ Shipped **dark mode + WCAG accessibility** features → **+25% engagement**<br/><br/>
+🚀 Deployed frontend on **Netlify**, backend APIs on **Render**<br/><br/>
+🔧 Worked with REST APIs, JWT auth & reusable component architecture
 
-**Link:** [View Repository](https://github.com/yadavabhi12/mern_text_to_speech)
+</td>
+</tr>
+</table>
 
----
+</td>
+</tr>
+</table>
 
-### 📚 11. MERN Assignment
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Node.js · MongoDB
-
-**Description:** A **comprehensive MERN stack assignment project** demonstrating full-stack development capabilities.
-
-**Link:** [View Repository](https://github.com/yadavabhi12/mern_assignment)
+<br/>
 
 ---
 
-### 📰 12. News Portal — Dynamic News Platform
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** HTML · CSS · JavaScript
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                     GITHUB STATS                             -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-**Description:** A **dynamic news portal** with live news updates and responsive design.
-
-**Key Features:**
-- 📰 **News Feed** - Live news updates
-- 🔍 **Search** - Find news by keywords
-- 📱 **Responsive Design** - Works on all screen sizes
-- 🎨 **Modern UI** - Clean and user-friendly interface
-
-**Link:** [View Repository](https://github.com/yadavabhi12/New-Project)
-
----
-
-### 🎨 13. Portfolio Projects
-
-#### Live Portfolio
-**Stack:** HTML · CSS · JavaScript  
-**Description:** A **personal portfolio website** showcasing projects and skills  
-**Link:** [View Repository](https://github.com/yadavabhi12/live_portfolio)
-
-#### Portfolio (Modified JS)
-**Stack:** HTML · CSS · JavaScript  
-**Description:** An **enhanced portfolio** with advanced JavaScript features  
-**Link:** [View Repository](https://github.com/yadavabhi12/portfolio-modifie-js)
-
----
-
-### 🎬 14. Manim Server — Animation Framework
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** Python · Manim
-
-**Description:** A **Python-based server** for creating mathematical animations using Manim library.
-
-**Key Features:**
-- 🎬 **Mathematical Animations** - Create educational animations
-- 📐 **Geometry Support** - Animate geometric concepts
-- 🎯 **High-Quality Output** - Generate professional-grade videos
-
-**Link:** [View Repository](https://github.com/yadavabhi12/manim_server)
-
----
-
-### 🐍 15. Python Practices
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** Python
-
-**Description:** A collection of **Python practice scripts** covering various concepts and algorithms.
-
-**Link:** [View Repository](https://github.com/yadavabhi12/python_practics)
-
----
-
-### 🏗️ 16. System Design Practices
-**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** Python
-
-**Description:** **System design examples and best practices** for building scalable systems.
-
-**Key Topics:**
-- 🔄 Distributed Systems
-- 📊 Database Design
-- 🔍 Caching Strategies
-- ⚖️ Load Balancing
-- 🔐 Security Patterns
-
-**Link:** [View Repository](https://github.com/yadavabhi12/System-design-practices)
-
----
-
-## 📊 GitHub Stats
+<div align="center"><h2>📊 GitHub Stats</h2></div>
 
 <div align="center">
 
 <table width="100%">
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yadavabhi12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api?username=yadavabhi12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%"/>
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavabhi12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavabhi12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9&langs_count=8" width="100%"/>
 </td>
 </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yadavabhi12&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FF6B35&currStreakNum=ffffff" width="100%"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavabhi12&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&area_color=1e3a5f&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=yadavabhi12&theme=tokyonight&hide_border=true&background=0d1117&stroke=38BDF8&ring=38BDF8&fire=FF6B35&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavabhi12&bg_color=0d1117&color=38BDF8&line=38BDF8&point=ffffff&area=true&area_color=1e3a5f&hide_border=true&custom_title=Contribution+Graph" width="100%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🏆 GitHub Trophies
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                      TROPHIES                                -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
+
+<h2>🏆 GitHub Trophies</h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=yadavabhi12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🐍 Contribution Snake
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                    SNAKE ANIMATION                           -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
 <picture>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<div align="center">
+  <h2>🐍 Contribution Snake</h2>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 </picture>
 
 </div>
 
+<br/>
+
 ---
 
-## ⚡ What Sets Me Apart
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                   WHAT SETS ME APART                         -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-<table width="90%" align="center" border="1">
+<div align="center"><h2>⚡ What Sets Me Apart</h2></div>
+
+<div align="center">
+
+<table width="90%">
 <tr>
-<th>Dimension</th>
-<th>Most Developers</th>
-<th>Abhishek's Approach</th>
+<th width="20%">Dimension</th>
+<th width="40%">👨‍💻 Most Developers</th>
+<th width="40%">🚀 Abhishek's Approach</th>
 </tr>
 <tr>
-<td><b>Scope</b></td>
+<td align="center"><b>Scope</b></td>
 <td>Build UI components</td>
 <td>Own the full system — frontend to AI layer</td>
 </tr>
 <tr>
-<td><b>AI Integration</b></td>
+<td align="center"><b>AI</b></td>
 <td>Single LLM API call</td>
 <td>Orchestrate OpenAI + Gemini via LangChain</td>
 </tr>
 <tr>
-<td><b>Data Architecture</b></td>
+<td align="center"><b>Data</b></td>
 <td>One database</td>
 <td>Hybrid MongoDB + MySQL + Vector DB</td>
 </tr>
 <tr>
-<td><b>Real-Time Comm</b></td>
+<td align="center"><b>Real-Time</b></td>
 <td>HTTP polling</td>
 <td>WebSocket — < 80 ms latency</td>
 </tr>
 <tr>
-<td><b>Delivery</b></td>
+<td align="center"><b>Delivery</b></td>
 <td>Local dev only</td>
 <td>Live deploys — Netlify + Render</td>
 </tr>
 <tr>
-<td><b>CS Depth</b></td>
+<td align="center"><b>CS Depth</b></td>
 <td>Framework only</td>
 <td>OOP · DSA · Java · Python · SQL</td>
 </tr>
 <tr>
-<td><b>Mindset</b></td>
+<td align="center"><b>Mindset</b></td>
 <td>"Does it work?"</td>
 <td>Measure latency · accuracy · engagement %</td>
 </tr>
 </table>
 
----
+</div>
 
-## 🎯 Currently Focused On
-
-🤖 **Multi-Agent AI** — LangGraph + Agentic AI workflows at scale  
-📡 **Real-Time Systems** — Scalable WebSocket infrastructure  
-🚀 **Deployment & CI/CD** — Netlify · Render · GitHub Actions pipelines  
-🔍 **Semantic Search** — Production RAG with Pinecone + embeddings  
-🧮 **System Design** — Advanced DSA, scalability & architecture patterns  
-📊 **Data Engineering** — Python · Pandas · NumPy data pipelines
+<br/>
 
 ---
 
-## 💼 Work Experience
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                   CURRENTLY FOCUSED                          -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-### 🏢 Frontend Developer Intern — Mala Foundation
-`Oct 2025 – Mar 2026` | 6 Months
+<div align="center"><h2>🎯 Currently Focused On</h2></div>
 
-✦ Built **React.js + Material UI** data management dashboard for internal teams  
-✦ Implemented **WebSocket real-time updates**, reducing latency by **40%**  
-✦ Integrated **AI recommendation engine**, cutting manual review time by **30%**  
-✦ Shipped **dark mode + WCAG accessibility** features → **+25% engagement**  
-✦ Deployed frontend on **Netlify**, backend APIs on **Render**  
-✦ Worked with REST APIs, JWT auth & reusable component architecture
+<div align="center">
+
+<table width="80%">
+<tr>
+<td align="center" width="40">🤖</td>
+<td width="200"><b>Multi-Agent AI</b></td>
+<td>LangGraph + Agentic AI workflows at scale</td>
+</tr>
+<tr>
+<td align="center">📡</td>
+<td><b>Real-Time Systems</b></td>
+<td>Scalable WebSocket infrastructure</td>
+</tr>
+<tr>
+<td align="center">🚀</td>
+<td><b>Deployment & CI/CD</b></td>
+<td>Netlify · Render · GitHub Actions pipelines</td>
+</tr>
+<tr>
+<td align="center">🔍</td>
+<td><b>Semantic Search</b></td>
+<td>Production RAG with Pinecone + embeddings</td>
+</tr>
+<tr>
+<td align="center">🧮</td>
+<td><b>System Design</b></td>
+<td>Advanced DSA, scalability & architecture patterns</td>
+</tr>
+<tr>
+<td align="center">📊</td>
+<td><b>Data Engineering</b></td>
+<td>Python · Pandas · NumPy data pipelines</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-## 🏅 At a Glance
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                    AT A GLANCE BADGES                        -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-![DSA](https://img.shields.io/badge/🧩_DSA-200%2B_Problems_Solved-FFA116?style=for-the-badge)
-![AI](https://img.shields.io/badge/🤖_AI_Systems-Production_Built-38BDF8?style=for-the-badge)
+<div align="center">
 
-![Intern](https://img.shields.io/badge/💼_Intern-Mala_Foundation_2025--26-22C55E?style=for-the-badge)
-![Education](https://img.shields.io/badge/🎓_B.Tech_CSE-AKTU_2024-A855F7?style=for-the-badge)
+<h2>🏅 At a Glance</h2>
 
-![Deploy](https://img.shields.io/badge/🚀_Deploy-Netlify_%2B_Render-FF6B35?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍_Location-India_🇮🇳-DC2626?style=for-the-badge)
+![](https://img.shields.io/badge/🧩_DSA-200%2B_Problems_Solved-FFA116?style=for-the-badge)
+![](https://img.shields.io/badge/🤖_AI_Systems-Production_Built-38BDF8?style=for-the-badge)
+
+![](https://img.shields.io/badge/💼_Intern-Mala_Foundation_2025--26-22C55E?style=for-the-badge)
+![](https://img.shields.io/badge/🎓_B.Tech_CSE-AKTU_2024-A855F7?style=for-the-badge)
+
+![](https://img.shields.io/badge/🚀_Deploy-Netlify_%2B_Render-FF6B35?style=for-the-badge)
+![](https://img.shields.io/badge/📍_Location-India_🇮🇳-DC2626?style=for-the-badge)
+
+</div>
+
+<br/>
 
 ---
 
-## 📫 Let's Build Something Great
+<!-- ██████████████████████████████████████████████████████████████ -->
+<!--                     CONTACT SECTION                          -->
+<!-- ██████████████████████████████████████████████████████████████ -->
 
-**👉 Open to — Full-Time Roles · Freelance · Open Source · Collaborations**
+<div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadabhishek61@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🤝_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-yadav-dev)
-[![GitHub](https://img.shields.io/badge/⭐_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadavabhi12)
-[![LeetCode](https://img.shields.io/badge/💻_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/roronoa_abhishek/)
+<h2>📫 Let's Build Something Great</h2>
+
+<br/>
+
+<table width="70%" align="center">
+<tr>
+<td align="center">
+
+**👉 Open to — Full-Time Roles · Freelance · Open Source · Collabs**
+
+<br/>
+
+[![](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yadabhishek61@gmail.com)
+&nbsp;
+[![](https://img.shields.io/badge/🤝_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-yadav-dev)
+&nbsp;
+[![](https://img.shields.io/badge/⭐_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yadavabhi12)
+
+<br/><br/>
 
 > *"The goal isn't to write code — it's to build systems that matter."* 🚀
 
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ████ FOOTER WAVE ████ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,12,4,2&height=140&section=footer&animation=twinkling" width="100%"/>
