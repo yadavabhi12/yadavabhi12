@@ -96,75 +96,265 @@ I combine the **MERN stack** with **LLM orchestration** (LangChain · LangGraph 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 All My Projects
 
-### 🎓 IBM Interview DSA Coding
+### 🎓 1. IBM Interview DSA Coding
 **Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Language Composition:** ![Python](https://img.shields.io/badge/Python-91.5%25-3776ab?style=flat-square) ![Java](https://img.shields.io/badge/Java-8.5%25-007396?style=flat-square)
 
-A comprehensive collection of **Data Structures and Algorithms** problems with optimized solutions in **Python & Java**, designed for interview preparation and competitive programming.
+**Description:** Comprehensive collection of **Data Structures and Algorithms** problems with optimized solutions in **Python & Java**, designed for interview preparation and competitive programming.
 
-- 📚 **200+ DSA Problems** solved with detailed explanations
-- 🏆 Covers Arrays, Linked Lists, Trees, Graphs, DP, Sorting, Searching & more
+**Key Features:**
+- ✅ 200+ DSA problems solved with detailed explanations
+- 📚 Covers Arrays, Linked Lists, Trees, Graphs, DP, Sorting, Searching & more
 - 💡 Interview-focused approach with time/space complexity analysis
-- 🔗 **Repository:** [IBM_INTERVIEW_DSA_CODING](https://github.com/yadavabhi12/IBM_INTERVIEW_DSA_CODING)
+- 🔗 Clean, optimized code following best practices
+- 📖 Comments & walkthrough for each solution
+
+**Link:** [View Repository](https://github.com/yadavabhi12/IBM_INTERVIEW_DSA_CODING)
 
 ---
 
-### 🤖 AI Chat & Real-Time Data System
-![Live](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square) | ![Timeline](https://img.shields.io/badge/Apr_2026-Present-38BDF8?style=flat-square) | ![Deployed](https://img.shields.io/badge/Netlify+Render-A855F7?style=flat-square)
+### 🎯 2. Productivity Pro — Smart Task Manager & Focus Tracker
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Vite · Node.js · MongoDB · Socket.IO
 
-Hybrid LLM platform — OpenAI + Gemini via LangChain RAG, Pinecone semantic search, WebSocket real-time chat
+**Description:** A **full-stack productivity application** designed to help students and professionals manage tasks, track focus sessions, and build consistent study habits.
 
-**Tech Stack:** `React` `Node.js` `OpenAI` `Gemini` `LangChain` `LangGraph` `Pinecone` `WebSocket` `MongoDB` `MySQL`
+**Key Features:**
+- 🏠 **Dashboard** - Daily motivation, live stats, today's tasks at a glance
+- ✅ **Task Manager** - Full CRUD, alarms, sharing, categories, filters, tags
+- 📅 **Calendar** - Monthly task view, date-click task drill-down
+- ⏱️ **Focus Timer** - Pomodoro with distraction-free mode, task linking
+- 📊 **6 Analytics Tabs** - Overview, Trends, Categories, Time Analysis, Performance, Forecast
+- 💬 **Real-Time Chat** - 1:1 messaging, group chats, image sharing
+- 👤 **Profile** - LinkedIn-style profile, achievements, settings
+- 🔔 **Smart Notifications** - Alarms, task reminders, read/unread status
+- 📤 **Export Options** - PDF, JSON, CSV report generation
 
-| Metric | Impact |
-|:---|:---|
-| ⚡ Query Response Time | **↓ 35% faster** |
-| 🎯 Retrieval Accuracy | **↑ 40%** |
-| 💬 Chat Latency | **< 80 ms** |
-| 📈 User Engagement | **↑ 30%** |
-| 🔐 Unauthorized Access | **Zero incidents** |
+**Tech Stack:** React 18 · Vite · Node.js · Express · MongoDB · Socket.IO · Recharts · Tailwind CSS · JWT
 
----
-
-### 📋 Productivity & Task Platform
-![Live](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square) | ![Timeline](https://img.shields.io/badge/Jan_2026-Present-FF6B35?style=flat-square) | ![Deployed](https://img.shields.io/badge/Netlify+Render-A855F7?style=flat-square)
-
-Team collaboration platform — real-time WebSocket chat, analytics dashboards, hybrid DB storage
-
-**Tech Stack:** `React` `Redux` `Node.js` `Express` `WebSocket` `MongoDB` `MySQL` `Tailwind CSS`
-
-| Metric | Impact |
-|:---|:---|
-| 📊 Task Completion Visibility | **↑ 45%** |
-| 🗄️ Data Retrieval Latency | **↓ 30%** |
-| 👥 Team Coordination | **↑ 25%** |
-| 🔄 Chat Updates | **WebSocket driven** |
-| 🛡️ Access Control | **Role-based RBAC** |
+**Link:** [View Repository](https://github.com/yadavabhi12/abhishekyadav-focus-engine)
 
 ---
 
-### 🍕 Other Notable Projects
+### 🤖 3. KRISHANA AI — Real-Time Chat System
+**Status:** ![Live](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square) | **Stack:** Node.js · Gemini AI · Tavily API · WebSocket
 
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| **🍕 Food Delivery App** | Full-stack ordering system with Stripe payments & real-time tracking | React · Node.js · MongoDB · Stripe |
-| **📊 IntelData Dashboard** | Multi-user data management with real-time updates & secure access | React · Spring Boot · MongoDB · Material UI |
-| **🧠 More Projects** | AI tools · Full-stack apps · DSA solutions | [View All Repos](https://github.com/yadavabhi12?tab=repositories) |
+**Description:** A **real-time conversational AI system** designed to simulate **human-like interaction** with emotional intelligence, contextual memory, and live data retrieval.
+
+**Key Features:**
+- 🧠 **Context-Aware Memory** - Maintains conversation history (session-based)
+- 💬 **Human-Like Responses** - Natural tone, emotions, humor, and conversational flow
+- 🌐 **Real-Time Data Integration** - Uses Tavily API for live data (weather, news, trends)
+- 🔄 **Regenerate & Copy Features** - Re-generate responses or copy instantly
+- 🌍 **Multilingual Support** - English, Hindi, Hinglish (auto-detection)
+- ⚡ **Fast Performance** - Async architecture with low response latency
+- 🎯 **Emotion Detection** - Adapts responses to user sentiment
+
+**Tech Stack:** Node.js · Express · Gemini AI · Tavily API · MongoDB · CORS · WebSocket
+
+**Link:** [View Repository](https://github.com/yadavabhi12/livechat-ai)
 
 ---
 
-## 💼 Work Experience
+### 🧠 4. AI Prompt Flow — Node-Based UI (React + Node.js)
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Node.js · Gemini API · MongoDB
 
-### 🏢 Frontend Developer Intern — Mala Foundation
-`Oct 2025 – Mar 2026` | 6 Months
+**Description:** A **node-based AI prompt flow application** where users can visually connect nodes to create AI-powered workflows, send prompts to AI models, and view generated responses.
 
-✦ Built **React.js + Material UI** data management dashboard for internal teams  
-✦ Implemented **WebSocket real-time updates**, reducing latency by **40%**  
-✦ Integrated **AI recommendation engine**, cutting manual review time by **30%**  
-✦ Shipped **dark mode + WCAG accessibility** features → **+25% engagement**  
-✦ Deployed frontend on **Netlify**, backend APIs on **Render**  
-✦ Worked with REST APIs, JWT auth & reusable component architecture
+**Key Features:**
+- 🖼️ **Visual Node Editor** - Drag-and-drop interface for prompt flows
+- 🔗 **Node Connection Logic** - Connect Input Node → Output Node visually
+- 🤖 **AI Integration** - Uses Google Gemini API for intelligent responses
+- 💾 **Prompt Storage** - Save prompts and responses to MongoDB
+- ⚠️ **Connection Validation** - AI won't run without proper node connections
+- 📊 **Flow Visualization** - Data flows visually through connected nodes
+- 🎨 **Interactive UI** - Real-time feedback on node status and connection
+
+**Tech Stack:** React · Vite · @xyflow/react (React Flow) · Node.js · Express · Google Gemini API · MongoDB · Axios
+
+**Link:** [View Repository](https://github.com/yadavabhi12/FutureBlink_project_assigment)
+
+---
+
+### 📋 5. Productivity Tracker — Task Tracking & Analytics
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · TypeScript · Tailwind CSS · Vite
+
+**Description:** A **comprehensive mobile-first productivity tracking application** built with React, TypeScript, and Tailwind CSS.
+
+**Key Features:**
+- 📋 **Task Management** - Create, edit, delete, and track tasks with categories
+- ⏱️ **Live Timer** - Real-time task timing with start/stop functionality
+- 📊 **Analytics Dashboard** - Detailed productivity insights and statistics
+- 🏆 **Achievement System** - Gamified experience with unlockable badges
+- 🌙 **Dark/Light Mode** - Toggle between themes
+- 📱 **Mobile-First Design** - Optimized for all screen sizes
+- 🔥 **Streak Tracking** - Daily productivity streak counter
+- 🔍 **Smart Filtering** - Search and filter tasks by category
+- 💡 **Motivational Quotes** - Daily inspiration to boost productivity
+- 🎯 **Priority System** - High, medium, low priority task organization
+
+**Tech Stack:** React 18 · TypeScript · Tailwind CSS · Vite · Lucide React · React Icons · Netlify
+
+**Link:** [View Repository](https://github.com/yadavabhi12/Productivity-Tracker)
+
+---
+
+### 🍕 6. Food Delivery App — Full-Stack E-Commerce
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Node.js · MongoDB · Stripe API
+
+**Description:** A **complete full-stack food delivery application** with order management, real-time tracking, and secure payment processing.
+
+**Key Features:**
+- 🛒 **Shopping Cart** - Add/remove items, quantity management
+- 💳 **Stripe Payments** - Secure payment integration
+- 📍 **Real-Time Tracking** - Live order status and delivery tracking
+- 👤 **User Profiles** - Account management and order history
+- 🏪 **Admin Dashboard** - Manage restaurants, menus, orders
+- 🔐 **Authentication** - Secure login and JWT tokens
+- 📱 **Responsive UI** - Mobile-optimized experience
+
+**Tech Stack:** React · Node.js · Express · MongoDB · Stripe API · Tailwind CSS
+
+**Link:** [View Repository](https://github.com/yadavabhi12/food-delevery)
+
+---
+
+### 📊 7. IntelData — Multi-User Data Management Platform
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Node.js · MongoDB · Material UI
+
+**Description:** A **multi-user data management dashboard** with real-time updates, secure access controls, and comprehensive data visualization.
+
+**Key Features:**
+- 👥 **Multi-User Support** - Different user roles and permissions
+- ⚡ **Real-Time Updates** - WebSocket-based live data synchronization
+- 🔐 **Secure Access** - Role-Based Access Control (RBAC)
+- 📊 **Data Visualization** - Charts and analytics dashboards
+- 🔍 **Advanced Filtering** - Search and filter data efficiently
+- 🎨 **Material UI Design** - Professional and clean interface
+- 📤 **Data Export** - Export data in multiple formats
+
+**Frontend:** [intelData Frontend](https://github.com/yadavabhi12/intelData_frantend)  
+**Backend:** [intelData Backend](https://github.com/yadavabhi12/intelData_backend)
+
+**Tech Stack:** React · Redux · Node.js · Express · MongoDB · MySQL · Material UI · WebSocket
+
+---
+
+### 🎙️ 8. AI Voice Agent
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** HTML · JavaScript · Speech Recognition API
+
+**Description:** An **AI-powered voice agent** that understands and responds to voice commands with natural language processing.
+
+**Key Features:**
+- 🎤 **Voice Recognition** - Listens to user commands
+- 💭 **Natural Language Processing** - Understands context and intent
+- 🔊 **Voice Response** - Generates spoken responses
+- 🤖 **AI-Powered** - Intelligent responses based on user input
+- 📱 **Web-Based** - Runs in any browser
+
+**Link:** [View Repository](https://github.com/yadavabhi12/AI_Voice_Agent)
+
+---
+
+### 📝 9. Interview Preparation
+
+#### JavaScript Interview Questions
+**Stack:** JavaScript · Web Development  
+**Description:** Comprehensive collection of JavaScript interview questions and answers  
+**Link:** [View Repository](https://github.com/yadavabhi12/javascript_Interview_question)
+
+---
+
+### 🛠️ 10. Text-to-Speech MERN App
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Node.js · MongoDB
+
+**Description:** A **MERN stack application** that converts text to speech with voice customization and playback controls.
+
+**Key Features:**
+- 🔊 **Text-to-Speech** - Convert text to natural-sounding audio
+- 🎙️ **Voice Selection** - Choose from multiple voice options
+- 🎚️ **Speed & Pitch Control** - Customize speech parameters
+- 💾 **Save Audio** - Download generated speech
+- 📱 **Responsive UI** - Works on all devices
+
+**Link:** [View Repository](https://github.com/yadavabhi12/mern_text_to_speech)
+
+---
+
+### 📚 11. MERN Assignment
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** React · Node.js · MongoDB
+
+**Description:** A **comprehensive MERN stack assignment project** demonstrating full-stack development capabilities.
+
+**Link:** [View Repository](https://github.com/yadavabhi12/mern_assignment)
+
+---
+
+### 📰 12. News Portal — Dynamic News Platform
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** HTML · CSS · JavaScript
+
+**Description:** A **dynamic news portal** with live news updates and responsive design.
+
+**Key Features:**
+- 📰 **News Feed** - Live news updates
+- 🔍 **Search** - Find news by keywords
+- 📱 **Responsive Design** - Works on all screen sizes
+- 🎨 **Modern UI** - Clean and user-friendly interface
+
+**Link:** [View Repository](https://github.com/yadavabhi12/New-Project)
+
+---
+
+### 🎨 13. Portfolio Projects
+
+#### Live Portfolio
+**Stack:** HTML · CSS · JavaScript  
+**Description:** A **personal portfolio website** showcasing projects and skills  
+**Link:** [View Repository](https://github.com/yadavabhi12/live_portfolio)
+
+#### Portfolio (Modified JS)
+**Stack:** HTML · CSS · JavaScript  
+**Description:** An **enhanced portfolio** with advanced JavaScript features  
+**Link:** [View Repository](https://github.com/yadavabhi12/portfolio-modifie-js)
+
+---
+
+### 🎬 14. Manim Server — Animation Framework
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** Python · Manim
+
+**Description:** A **Python-based server** for creating mathematical animations using Manim library.
+
+**Key Features:**
+- 🎬 **Mathematical Animations** - Create educational animations
+- 📐 **Geometry Support** - Animate geometric concepts
+- 🎯 **High-Quality Output** - Generate professional-grade videos
+
+**Link:** [View Repository](https://github.com/yadavabhi12/manim_server)
+
+---
+
+### 🐍 15. Python Practices
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** Python
+
+**Description:** A collection of **Python practice scripts** covering various concepts and algorithms.
+
+**Link:** [View Repository](https://github.com/yadavabhi12/python_practics)
+
+---
+
+### 🏗️ 16. System Design Practices
+**Status:** ![Active](https://img.shields.io/badge/Active-22C55E?style=flat-square) | **Stack:** Python
+
+**Description:** **System design examples and best practices** for building scalable systems.
+
+**Key Topics:**
+- 🔄 Distributed Systems
+- 📊 Database Design
+- 🔍 Caching Strategies
+- ⚖️ Load Balancing
+- 🔐 Security Patterns
+
+**Link:** [View Repository](https://github.com/yadavabhi12/System-design-practices)
 
 ---
 
@@ -268,6 +458,20 @@ Team collaboration platform — real-time WebSocket chat, analytics dashboards, 
 🔍 **Semantic Search** — Production RAG with Pinecone + embeddings  
 🧮 **System Design** — Advanced DSA, scalability & architecture patterns  
 📊 **Data Engineering** — Python · Pandas · NumPy data pipelines
+
+---
+
+## 💼 Work Experience
+
+### 🏢 Frontend Developer Intern — Mala Foundation
+`Oct 2025 – Mar 2026` | 6 Months
+
+✦ Built **React.js + Material UI** data management dashboard for internal teams  
+✦ Implemented **WebSocket real-time updates**, reducing latency by **40%**  
+✦ Integrated **AI recommendation engine**, cutting manual review time by **30%**  
+✦ Shipped **dark mode + WCAG accessibility** features → **+25% engagement**  
+✦ Deployed frontend on **Netlify**, backend APIs on **Render**  
+✦ Worked with REST APIs, JWT auth & reusable component architecture
 
 ---
 
